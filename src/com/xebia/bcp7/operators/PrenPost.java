@@ -17,8 +17,8 @@ public class PrenPost {
 		// TODO Auto-generated method stub
 
 		int i=0,j=0;
-		System.out.println(i);
-		System.out.println(j);
+		System.out.println(i++);
+		System.out.println(++j);
 	}
 
 }

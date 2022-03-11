@@ -28,6 +28,7 @@ public class Overide1 {
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("unchecked")  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Animal a=new Dog();  

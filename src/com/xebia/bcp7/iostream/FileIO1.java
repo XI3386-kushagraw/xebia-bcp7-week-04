@@ -19,7 +19,7 @@ public class FileIO1 {
 
 		FileInputStream in=null;
 		try {
-			in=new FileInputStream("D:\\hello.txt");
+			in=new FileInputStream("C:\\Users\\Kushagra.Wadhwa\\Documents\\hello.txt");
 			int i = in.read();
 			System.out.println((char)i);
 		}

@@ -20,7 +20,7 @@ public class FileOS1 {
 		FileOutputStream fs=null;
 		
 		try {
-			fs=new FileOutputStream("D:\\hello.txt");
+			fs=new FileOutputStream("C:\\\\Users\\\\Kushagra.Wadhwa\\\\Documents\\\\hello.txt");
 			String s = "My name is Kushagra Wadhwa";
 			byte b[] = s.getBytes();
 			fs.write(b);
